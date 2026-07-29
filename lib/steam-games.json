@@ -1,0 +1,597 @@
+[
+  {
+    "appid": 1091500,
+    "title": "Cyberpunk 2077",
+    "short": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "genres": [
+      "Nhập vai (RPG)"
+    ],
+    "price": 297000,
+    "originalPrice": 990000,
+    "discount": 70,
+    "metacritic": 86,
+    "releaseDate": "9 Thg12, 2020",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/logo.png"
+  },
+  {
+    "appid": 1245620,
+    "title": "ELDEN RING",
+    "short": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "genres": [
+      "Hành động",
+      "Nhập vai (RPG)"
+    ],
+    "price": 990000,
+    "originalPrice": 990000,
+    "discount": 0,
+    "metacritic": 94,
+    "releaseDate": "24 Thg02, 2022",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1784684281",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/logo.png"
+  },
+  {
+    "appid": 292030,
+    "title": "The Witcher 3: Wild Hunt",
+    "short": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+    "genres": [
+      "Nhập vai (RPG)"
+    ],
+    "price": 132000,
+    "originalPrice": 660000,
+    "discount": 80,
+    "metacritic": 93,
+    "releaseDate": "18 Thg05, 2015",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/logo.png"
+  },
+  {
+    "appid": 1086940,
+    "title": "Baldur's Gate 3",
+    "short": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "genres": [
+      "Phiêu lưu",
+      "Nhập vai (RPG)",
+      "Chiến thuật"
+    ],
+    "price": 990000,
+    "originalPrice": 990000,
+    "discount": 0,
+    "metacritic": 96,
+    "releaseDate": "3 Thg08, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/logo.png"
+  },
+  {
+    "appid": 3240220,
+    "title": "Grand Theft Auto V Enhanced",
+    "short": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Đua tốc độ"
+    ],
+    "price": 341500,
+    "originalPrice": 683000,
+    "discount": 50,
+    "metacritic": null,
+    "releaseDate": "4 Thg03, 2025",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/logo.png"
+  },
+  {
+    "appid": 2050650,
+    "title": "Resident Evil 4",
+    "short": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu"
+    ],
+    "price": 212500,
+    "originalPrice": 850000,
+    "discount": 75,
+    "metacritic": 91,
+    "releaseDate": "23 Thg03, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/logo.png"
+  },
+  {
+    "appid": 1145360,
+    "title": "Hades",
+    "short": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+    "genres": [
+      "Hành động",
+      "Indie",
+      "Nhập vai (RPG)"
+    ],
+    "price": 321000,
+    "originalPrice": 321000,
+    "discount": 0,
+    "metacritic": 93,
+    "releaseDate": "17 Thg09, 2020",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/logo.png"
+  },
+  {
+    "appid": 1623730,
+    "title": "Palworld",
+    "short": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie",
+      "Nhập vai (RPG)"
+    ],
+    "price": 385000,
+    "originalPrice": 385000,
+    "discount": 0,
+    "metacritic": null,
+    "releaseDate": "9 Thg07, 2026",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/logo.png"
+  },
+  {
+    "appid": 1903340,
+    "title": "Clair Obscur: Expedition 33",
+    "short": "Dẫn các thành viên Đội Thám Hiểm 33 trong nhiệm vụ tiêu diệt Nữ Họa Sĩ - để bà ta không bao giờ vẽ tiếp cái chết. Khám phá thế giới kỳ diệu cảm hứng từ Thời Kỳ Tươi Đẹp của Pháp, đấu với những kẻ địch độc đáo trong tựa game RPG cơ chế thời gian thực theo lượt.",
+    "genres": [
+      "Hành động",
+      "Nhập vai (RPG)"
+    ],
+    "price": 616000,
+    "originalPrice": 770000,
+    "discount": 20,
+    "metacritic": 91,
+    "releaseDate": "24 Thg04, 2025",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1782830877",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/logo.png"
+  },
+  {
+    "appid": 413150,
+    "title": "Stardew Valley",
+    "short": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "genres": [
+      "Indie",
+      "Nhập vai (RPG)",
+      "Mô phỏng"
+    ],
+    "price": 165000,
+    "originalPrice": 165000,
+    "discount": 0,
+    "metacritic": 89,
+    "releaseDate": "26 Thg02, 2016",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/logo.png"
+  },
+  {
+    "appid": 105600,
+    "title": "Terraria",
+    "short": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie",
+      "Nhập vai (RPG)"
+    ],
+    "price": 142000,
+    "originalPrice": 142000,
+    "discount": 0,
+    "metacritic": 83,
+    "releaseDate": "16 Thg05, 2011",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/logo.png"
+  },
+  {
+    "appid": 367520,
+    "title": "Hollow Knight",
+    "short": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie"
+    ],
+    "price": 165000,
+    "originalPrice": 165000,
+    "discount": 0,
+    "metacritic": 87,
+    "releaseDate": "24 Thg02, 2017",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/logo.png"
+  },
+  {
+    "appid": 1030300,
+    "title": "Hollow Knight: Silksong",
+    "short": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie"
+    ],
+    "price": 220000,
+    "originalPrice": 220000,
+    "discount": 0,
+    "metacritic": 90,
+    "releaseDate": "4 Thg09, 2025",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/logo.png"
+  },
+  {
+    "appid": 2246340,
+    "title": "Monster Hunter Wilds",
+    "short": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Nhập vai (RPG)"
+    ],
+    "price": 584000,
+    "originalPrice": 1390000,
+    "discount": 58,
+    "metacritic": null,
+    "releaseDate": "27 Thg02, 2025",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/logo.png"
+  },
+  {
+    "appid": 1966720,
+    "title": "Lethal Company",
+    "short": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie",
+      "Truy cập sớm"
+    ],
+    "price": 142000,
+    "originalPrice": 142000,
+    "discount": 0,
+    "metacritic": null,
+    "releaseDate": "23 Thg10, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/logo.png"
+  },
+  {
+    "appid": 1868140,
+    "title": "DAVE THE DIVER",
+    "short": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+    "genres": [
+      "Phiêu lưu",
+      "Đơn giản",
+      "Nhập vai (RPG)",
+      "Mô phỏng"
+    ],
+    "price": 260000,
+    "originalPrice": 260000,
+    "discount": 0,
+    "metacritic": 90,
+    "releaseDate": "28 Thg06, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1784533018",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/logo.png"
+  },
+  {
+    "appid": 1237970,
+    "title": "Titanfall® 2",
+    "short": "Respawn Entertainment gives you the most advanced titan technology in its new, single player campaign &amp; multiplayer experience. Combine &amp; conquer with new titans &amp; pilots, deadlier weapons, &amp; customization and progression systems that help you and your titan flow as one unstoppable killing force.",
+    "genres": [
+      "Hành động"
+    ],
+    "price": 700000,
+    "originalPrice": 700000,
+    "discount": 0,
+    "metacritic": 86,
+    "releaseDate": "18 Thg06, 2020",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1779987598",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/logo.png"
+  },
+  {
+    "appid": 1657630,
+    "title": "Slime Rancher 2",
+    "short": "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Đơn giản",
+      "Indie",
+      "Mô phỏng"
+    ],
+    "price": 195000,
+    "originalPrice": 325000,
+    "discount": 40,
+    "metacritic": null,
+    "releaseDate": "23 Thg09, 2025",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/e0ebd5982e69895132d4ffdf80a1a6048ab53d25/header.jpg?t=1776359011",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/logo.png"
+  },
+  {
+    "appid": 1817230,
+    "title": "Hi-Fi RUSH",
+    "short": "Cảm nhận nhịp beat cùng rockstar tương lai Chai và đội nhóm lôm côm của cậu chống lại một siêu tập đoàn xấu xa với những trận chiến xé toang màn nhĩ! Tango Gameworks cho ra đời Hi-Fi RUSH, trò chơi hành động hoàn toàn mới, nơi thế giới đồng điệu cùng âm nhạc.",
+    "genres": [
+      "Hành động"
+    ],
+    "price": 450000,
+    "originalPrice": 450000,
+    "discount": 0,
+    "metacritic": 90,
+    "releaseDate": "25 Thg01, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1764916407",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/logo.png"
+  },
+  {
+    "appid": 782330,
+    "title": "DOOM Eternal",
+    "short": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
+    "genres": [
+      "Hành động"
+    ],
+    "price": 499000,
+    "originalPrice": 499000,
+    "discount": 0,
+    "metacritic": 88,
+    "releaseDate": "19 Thg03, 2020",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/feaf8293bcd2d078422faa547bc0d707c08f606e/header.jpg?t=1783432602",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/logo.png"
+  },
+  {
+    "appid": 1244460,
+    "title": "Jurassic World Evolution 2",
+    "short": "Jurassic World Evolution 2 is the much-anticipated sequel to Frontier’s highly successful Jurassic World Evolution. This bold new era in the Jurassic World Evolution game franchise builds upon the ground-breaking and immersive 2018 management simulation.",
+    "genres": [
+      "Mô phỏng",
+      "Chiến thuật"
+    ],
+    "price": 910000,
+    "originalPrice": 910000,
+    "discount": 0,
+    "metacritic": 76,
+    "releaseDate": "9 Thg11, 2021",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg?t=1750957701",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244460/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244460/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244460/logo.png"
+  },
+  {
+    "appid": 1332010,
+    "title": "Stray",
+    "short": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home.",
+    "genres": [
+      "Phiêu lưu",
+      "Indie"
+    ],
+    "price": 375000,
+    "originalPrice": 375000,
+    "discount": 0,
+    "metacritic": 82,
+    "releaseDate": "19 Thg07, 2022",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg?t=1779927784",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/logo.png"
+  },
+  {
+    "appid": 2379780,
+    "title": "Balatro",
+    "short": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+    "genres": [
+      "Đơn giản",
+      "Indie",
+      "Chiến thuật"
+    ],
+    "price": 205000,
+    "originalPrice": 205000,
+    "discount": 0,
+    "metacritic": 90,
+    "releaseDate": "20 Thg02, 2024",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1781540048",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/logo.png"
+  },
+  {
+    "appid": 108600,
+    "title": "Project Zomboid",
+    "short": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+    "genres": [
+      "Indie",
+      "Nhập vai (RPG)",
+      "Mô phỏng",
+      "Truy cập sớm"
+    ],
+    "price": 260000,
+    "originalPrice": 260000,
+    "discount": 0,
+    "metacritic": null,
+    "releaseDate": "8 Thg11, 2013",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1777298596",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/logo.png"
+  },
+  {
+    "appid": 1364780,
+    "title": "Street Fighter™ 6",
+    "short": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu"
+    ],
+    "price": 397000,
+    "originalPrice": 794000,
+    "discount": 50,
+    "metacritic": 92,
+    "releaseDate": "1 Thg06, 2023",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1782095044",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/logo.png"
+  },
+  {
+    "appid": 524220,
+    "title": "NieR:Automata™",
+    "short": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.",
+    "genres": [
+      "Hành động",
+      "Nhập vai (RPG)"
+    ],
+    "price": 833000,
+    "originalPrice": 833000,
+    "discount": 0,
+    "metacritic": 84,
+    "releaseDate": "17 Thg03, 2017",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1773364834",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/logo.png"
+  },
+  {
+    "appid": 275850,
+    "title": "No Man's Sky",
+    "short": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu"
+    ],
+    "price": 705000,
+    "originalPrice": 705000,
+    "discount": 0,
+    "metacritic": 61,
+    "releaseDate": "12 Thg08, 2016",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/5f39cba0164881a53f6aee01f72180f7c619c011/header.jpg?t=1779908213",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/logo.png"
+  },
+  {
+    "appid": 588650,
+    "title": "Dead Cells",
+    "short": "Dead Cells is a roguelite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Indie"
+    ],
+    "price": 110000,
+    "originalPrice": 220000,
+    "discount": 50,
+    "metacritic": 89,
+    "releaseDate": "6 Thg08, 2018",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/logo.png"
+  },
+  {
+    "appid": 646570,
+    "title": "Slay the Spire",
+    "short": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!",
+    "genres": [
+      "Indie",
+      "Chiến thuật"
+    ],
+    "price": 78000,
+    "originalPrice": 312000,
+    "discount": 75,
+    "metacritic": 89,
+    "releaseDate": "23 Thg01, 2019",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/logo.png"
+  },
+  {
+    "appid": 1229490,
+    "title": "ULTRAKILL",
+    "short": "ULTRAKILL là một tựa game bắn súng góc nhìn thứ nhất phong cách retro, nhịp độ nhanh và cực kỳ bạo lực, kết hợp giữa hệ thống tính điểm dựa trên kỹ năng của các tựa game hành động nhân vật với những màn tàn sát đẫm máu nguyên bản, lấy cảm hứng từ những tựa game bắn súng xuất sắc nhất thập niên 90.",
+    "genres": [
+      "Hành động",
+      "Indie",
+      "Truy cập sớm"
+    ],
+    "price": 203500,
+    "originalPrice": 203500,
+    "discount": 0,
+    "metacritic": null,
+    "releaseDate": "3 Thg09, 2020",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg?t=1783942574",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229490/logo.png"
+  },
+  {
+    "appid": 1149460,
+    "title": "ICARUS",
+    "short": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu",
+      "Mô phỏng"
+    ],
+    "price": 89000,
+    "originalPrice": 445000,
+    "discount": 80,
+    "metacritic": null,
+    "releaseDate": "3 Thg12, 2021",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1149460/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1149460/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1149460/logo.png"
+  },
+  {
+    "appid": 1172380,
+    "title": "STAR WARS Jedi: Fallen Order™",
+    "short": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+    "genres": [
+      "Hành động",
+      "Phiêu lưu"
+    ],
+    "price": 950000,
+    "originalPrice": 950000,
+    "discount": 0,
+    "metacritic": 81,
+    "releaseDate": "14 Thg11, 2019",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg?t=1781890314",
+    "portrait": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_600x900.jpg",
+    "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/library_hero.jpg",
+    "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/logo.png"
+  }
+]
